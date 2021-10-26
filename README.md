@@ -15,8 +15,8 @@
 
 ![imagem](https://github-readme-stats.vercel.app/api?username=wandersonzz&show_icons=true&theme=radical)
 
-[![Twitter](https://img.shields.io/twitter/follow/WandersonFelyp?style=flat&labelColor=0D0D0D&logo=Thitter&Color=white)](https://twitter.com/WandersonFelyp)
+[![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/WandersonFelyp)
 
-[![Meu perfil Linkedin](https://img.shields.io/github/followers/Wandersonzz?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/wanderson-felipe-soares-4a7027101/)
+[![Meu perfil Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/wanderson-felipe-soares-4a7027101/)
 
 
