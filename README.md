@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, there, I'm Wanderson Felipe 👋
 
-<!--
-**wandersonzz/wandersonzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**wandersonzz/wandersonzz** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+- 🔭 I currently work as a system implementation analyst at SYNDATA SISTEMAS company. https://www.syndata.com.br/ws/site/
+- 🌱 I'm currently studying reactjs, react native, typescript, nodejs
+- 👯 I’m looking to collaborate on Educational and Social impact open source projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about [Git, Java, Jakarta EE, Spring Boot, Spring Data, Spring Security, Api RESTfull, Maven, JPA, Hibernate, PostgreSQL]
+- 📫 How to reach me: https://www.linkedin.com/in/wanderson-felipe-soares-4a7027101/, https://twitter.com/WandersonFelyp,
+- 😄 Pronouns: Hiim/His
+- ⚡ Fun fact: things that fly
+
+
+![imagem](https://github-readme-stats.vercel.app/api?username=wandersonzz&show_icons=true&theme=radical)
+
+
