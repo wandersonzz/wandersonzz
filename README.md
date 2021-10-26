@@ -9,13 +9,12 @@
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about [Git, Java, Jakarta EE, Spring Boot, Spring Data, Spring Security, Api RESTfull, Maven, JPA, Hibernate, PostgreSQL]
-- 📫 How to reach me: https://www.linkedin.com/in/wanderson-felipe-soares-4a7027101/, https://twitter.com/WandersonFelyp,
 - 😄 Pronouns: Hiim/His
 - ⚡ Fun fact: things that fly
 
 
 ![imagem](https://github-readme-stats.vercel.app/api?username=wandersonzz&show_icons=true&theme=radical)
 
-![Meu perfil GigHub](https://img.shields.io/badge/Meu%20Perfil-GitHub-green)
+[![Meu perfil GigHub](https://img.shields.io/badge/Meu%20Perfil-GitHub-green)](https://github.com/wandersonzz)
 
 
