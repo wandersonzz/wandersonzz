@@ -15,6 +15,10 @@
 
 ![imagem](https://github-readme-stats.vercel.app/api?username=wandersonzz&show_icons=true&theme=radical)
 
+
+https://img.shields.io/twitter/url?style=social
+
+[![Meu perfil GigHub](https://img.shields.io/twitter/url?style=social)](https://twitter.com/WandersonFelyp)
 [![Meu perfil GigHub](https://img.shields.io/badge/Meu%20Perfil-GitHub-green)](https://github.com/wandersonzz)
 
 
