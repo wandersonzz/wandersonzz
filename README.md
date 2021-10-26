@@ -4,7 +4,7 @@
 **wandersonzz/wandersonzz** 
 
 
-- 🔭 I currently work as a system implementation analyst at SYNDATA SISTEMAS company. https://www.syndata.com.br/ws/site/
+- 🔭 I currently work as a system implementation analyst at SYNDATA system company.  [![logoSyndata](https://img.shields.io/badge/-SYNDATA%20system-blue)](https://www.syndata.com.br/ws/site/)
 - 🌱 I'm currently studying reactjs, react native, typescript, nodejs
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
 - 🤔 I’m looking for help with ...
@@ -13,10 +13,14 @@
 - ⚡ Fun fact: things that fly
 
 
-![imagem](https://github-readme-stats.vercel.app/api?username=wandersonzz&show_icons=true&theme=radical)
+
+
+
+![imagem](https://github-readme-stats.vercel.app/api?username=wandersonzz&show_icons=true&theme=dark)
+
+
+
+
 
 [![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/WandersonFelyp)
-
 [![Meu perfil Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/wanderson-felipe-soares-4a7027101/)
-
-
