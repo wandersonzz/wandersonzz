@@ -7,13 +7,12 @@
 - 🔭 I currently work as a system implementation analyst at SYNDATA system company.  [![logoSyndata](https://img.shields.io/badge/-SYNDATA%20system-blue)](https://www.syndata.com.br/ws/site/)
 - 🌱 I'm currently studying reactjs, react native, typescript, nodejs
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about [Git, Java, Jakarta EE, Spring Boot, Spring Data, Spring Security, Api RESTfull, Maven, JPA, Hibernate, PostgreSQL]
 - 😄 Pronouns: Hiim/His
 - ⚡ Fun fact: things that fly
 
 
-
+[Node]
 
 
 ![imagem](https://github-readme-stats.vercel.app/api?username=wandersonzz&show_icons=true&theme=dark)
