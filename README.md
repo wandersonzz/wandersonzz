@@ -16,4 +16,6 @@
 
 ![imagem](https://github-readme-stats.vercel.app/api?username=wandersonzz&show_icons=true&theme=radical)
 
+![Meu perfil GigHub](https://img.shields.io/badge/Meu%20Perfil-GitHub-green)
+
 
